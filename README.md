@@ -1,12 +1,8 @@
-# Hello, I'm Rasheedah 
-<a href="https://www.linkedin.com/in/rasheedahlandrum/" target="_blank">LinkedIn Profile</a>
+# Hello, I'm Augustine
+<a href="[https://www.linkedin.com/in/yusuf-austin//" target="_blank">LinkedIn Profile</a>
 
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
-Objective
-
-My background in Computer Information Systems sparked a strong interest in cybersecurity, and I'm now excited to pursue a career in this field specifically aiming to start as a Tier 1 Analyst in a Security Operations Center (SOC).
+**SUMMARY OF EXPERIENCE **
+Experienced Cyber Security Professional with a demonstrated history in leading and implementing comprehensive security strategies in diverse IT environments. Skilled in advanced cyber defense techniques, strategic planning, and managing cross-functional teams to ensure robust security infrastructures. Proven expertise in threat intelligence, incident response, and penetration testing, combined with a strong focus on aligning security initiatives with business objectives. Seeking to leverage leadership skills and technical expertise in a challenging Senior Cyber Security Specialist role. 
 
 ## Skills
 
@@ -14,8 +10,8 @@ My background in Computer Information Systems sparked a strong interest in cyber
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM LAB                                      | <a href="https://github.com/tinka391/SIEM-LAB">SIEM Lab</a>
-| Azure Compute & Identity Management Lab        |<a href="https://www.linkedin.com/posts/rasheedahlandrum_azure-cloudcomputing-az104-activity-7318389754507522049-JXOG?utm_source=share&utm_medium=member_desktop&rcm=ACoAABAj9foB3Tu6O4goM1DAFLGoiJmjMJ-3dMc"> Azure Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Identity Management Lab        |<a href="https://www.freeipa.org/page/Quick_Start_Guide"> Centos 7|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab <a href="https://documentation.wazuh.com/current/quickstart.html"> WAZUH|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
